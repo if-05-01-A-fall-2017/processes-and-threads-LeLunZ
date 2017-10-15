@@ -1,0 +1,1 @@
+The Version with one thread is more efficent, because we are calculatating things two times.
